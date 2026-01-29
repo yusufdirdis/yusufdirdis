@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 
 I’m Yusuf Dirdis, a Computer Science student at Florida International University (FIU) with a passion for building AI-powered, real-world software applications. I focus on creating practical systems that combine artificial intelligence, full-stack development, and thoughtful system design to solve meaningful problems.
 
