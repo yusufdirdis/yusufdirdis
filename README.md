@@ -2,7 +2,7 @@
 
 I’m Yusuf Dirdis, a Computer Science student at Florida International University (FIU) with a passion for building AI-powered, real-world software applications. I focus on creating practical systems that combine artificial intelligence, full-stack development, and thoughtful system design to solve meaningful problems.
 
-🤖 Projects & Technical Focus
+## 🤖 Projects & Technical Focus
 I actively design and build applications that integrate AI models, modern web technologies, and scalable backends, including:
 
 AI-powered planning and recommendation systems, using tools like Google Gemini, function calling, and external APIs.
@@ -13,7 +13,7 @@ Interactive and immersive web experiences, leveraging Three.js, WebGL, and moder
 
 Full-stack development, using Python (Flask/FastAPI), Node.js, SQL/SQLite, and cloud platforms to deliver end-to-end solutions.
 
-🧠 Interests
+## 🧠 Interests
 
 Artificial Intelligence & Machine Learning
 
@@ -23,10 +23,10 @@ Full-stack and backend development
 
 Building useful, user-focused applications
 
-🌱 Personal Mission
+## 🌱 Personal Mission
 I’m driven by continuous learning and hands-on building. My goal is to create software that is not only technically strong, but also useful, efficient, and impactful, especially through responsible and practical applications of AI.
 
-🎓 Education
+## 🎓 Education
 
 B.S. in Computer Science — Florida International University
 
